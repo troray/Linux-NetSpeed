@@ -9,7 +9,9 @@ export PATH
 #	Author: 千影,cx9208
 #	Blog: https://www.94ish.me/
 #=================================================
-
+red "安装过程如果出现一个窗口询问是否卸载内核请选择 NO "
+red "具体表现为出现一个窗口，最后一行为 About kernel removal? "
+red "======================================================="
 sh_ver="1.3.1"
 github="raw.githubusercontent.com/cx9208/Linux-NetSpeed/master"
 
